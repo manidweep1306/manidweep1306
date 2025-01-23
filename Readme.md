@@ -1,21 +1,48 @@
-# 💫 About Me:
-I am a second-year Computer Science student skilled in C, Python, and Java, with experience in basic web development and proficiency in SQL. I am passionate about engineering and technology.
+## Hi there! 👋
 
+I'm **Manidweep**—a passionate developer with a love for coding and problem-solving. I enjoy working with various programming languages and technologies, constantly striving to enhance my skills and tackle new challenges.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manidweep-yarabarla-282a952b7) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manidweep1306&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manidweep1306&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+As a developer, I focus on creating efficient and innovative solutions. Currently, I have 9 public repositories showcasing my work. I am continuously learning and exploring new technologies to improve my craft.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Skills & Technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=manidweep1306&icon=0&color=0)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs,github&perline=8)](https://skillicons.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Top Projects
+
+[![DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=manidweep1306&repo=DataStructure&theme=dark)](https://github.com/manidweep1306/DataStructure)
+[![Java-programs](https://github-readme-stats.vercel.app/api/pin/?username=manidweep1306&repo=Java-programs&theme=dark)](https://github.com/manidweep1306/Java-programs)
+[![Java-exam](https://github-readme-stats.vercel.app/api/pin/?username=manidweep1306&repo=Java-exam&theme=dark)](https://github.com/manidweep1306/Java-exam)
+[![dbms](https://github-readme-stats.vercel.app/api/pin/?username=manidweep1306&repo=dbms&theme=dark)](https://github.com/manidweep1306/dbms)
+[![python](https://github-readme-stats.vercel.app/api/pin/?username=manidweep1306&repo=python&theme=dark)](https://github.com/manidweep1306/python)
+
+## GitHub Stats
+🌟 **Public Repositories:** 9  
+👥 **Followers:** 10  
+➡️ **Following:** 21  
+
+![manidweep1306's Stats](https://github-readme-stats.vercel.app/api?username=manidweep1306&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![manidweep1306's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manidweep1306&theme=midnight-purple&hide_border=true)
+
+![manidweep1306's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- **Created** [BST.java](https://github.com/manidweep1306/ADSaa/commit/0206912de0d69074b8b03b731aceae0cc504945e) in **ADSaa** on Jan 21, 2025.
+- **Updated** a)--cgpa.html in **fsd.html** on Jan 04, 2025.
+- **Created** [Stack.java](https://github.com/manidweep1306/ADSaa/commit/c2ae762d2850e896d17d15a7b573c640c97031c3) in **ADSaa** on Dec 31, 2024.
+- **Created** [Selection-sort.java](https://github.com/manidweep1306/ADSaa/commit/de603e10ce9519bcd8db3b756d1142c2b19cfb43) in **ADSaa** on Dec 31, 2024.
+- **Created** [Insertion-sort.java](https://github.com/manidweep1306/ADSaa/commit/1e75166fd26edf90bbe5ad6184f696b32436f9e9) in **ADSaa** on Dec 31, 2024.
+
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/manidweep-yarabarla-282a952b7" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="LinkedIn" height="50" width="50">
+  </a>
+<a href="https://www.hackerrank.com/profile/23pa1a05o7" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="LinkedIn" height="75" width="75">
+  </a>
