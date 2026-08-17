@@ -15,7 +15,6 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 - 🧠 Strong focus on system performance, hybrid vector search, and latency optimization
 
 ---
-
 ## 🛠️ Tech Stack
 
 *Languages & Full-Stack*  
@@ -23,13 +22,13 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 *AI, ML & Agentic Systems*  
 ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0052CC?style=flat-square&logo=openai&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-121212?style=flat-square&logo=chainlink&logoColor=white)
-![LLMs & NLP](https://img.shields.io/badge/LLMs_%26_NLP-8E75B2?style=flat-square&logo=meta&logoColor=white)
+![LLMs & NLP](https://img.shields.io/badge/LLMs_%26_NLP-8E75B2?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0052CC?style=flat-square&logo=probot&logoColor=white)
