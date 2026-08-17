@@ -1,10 +1,14 @@
 
 # ⚡ Yarabarla Manidweep
 
-<p align="left">
-  <b>AI Full-Stack Developer (AI FSD)</b><br>
-  <i>Building intelligent full-stack applications, RAG pipelines, and Edge AI integrations.</i>
-</p>
+**AI Full-Stack Developer (AI FSD)**  
+*Building intelligent full-stack applications, RAG pipelines, and Edge AI integrations.*
+
+```python
+import manidweep
+
+print(manidweep.get_focus())
+# Output: ['Full-Stack AI Solutions', 'RAG Pipelines', 'Agentic Workflows', 'Computer Vision & Edge']
 
 
 ---
