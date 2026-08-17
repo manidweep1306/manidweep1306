@@ -1,11 +1,19 @@
 
 # ⚡ Yarabarla Manidweep
 
-**AI / ML Engineer & Computer Vision Developer**
+<p align="left">
+  <b>AI Full-Stack Developer (AI FSD)</b><br>
+  <i>Building intelligent full-stack applications, RAG pipelines, and Edge AI integrations.</i>
+</p>
 
-python -c "import manidweep; print(manidweep.get_focus())"
 
-['Computer Vision', 'Edge AI', 'RAG Pipelines', 'Full-Stack AI']
+---
+
+```python
+import manidweep
+
+print(manidweep.get_focus())
+# Output: ['Full-Stack AI Solutions', 'RAG Pipelines', 'Agentic Workflows', 'Computer Vision & Edge']
 
 
 ---
@@ -71,6 +79,6 @@ python -c "import manidweep; print(manidweep.get_focus())"
 
 ### 🌐 Connect
 
-* **Email:** [manidweep2005@gmail.com](mailto:manidweep2005@gmail.com)[cite: 1]
-* **GitHub:** [github.com/manidweep1306](https://github.com/manidweep1306)[cite: 1]
-* **LinkedIn:** [linkedin.com/in/manidweep1306](https://linkedin.com)[cite: 1]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manidweep1306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manidweep1306)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manidweep2005@gmail.com)
