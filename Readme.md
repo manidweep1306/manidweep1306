@@ -1,4 +1,3 @@
----
 # ⚡ Yarabarla Manidweep
 
 **AI Full-Stack Developer (AI FSD)**  
