@@ -18,28 +18,35 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 
 ## 🛠️ Tech Stack
 
-*Languages*  
+*Languages & Backend*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-*Fullstack & Backend*  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-*AI / RAG / LLM Integration*  
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG_Pipelines-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square&logo=openai&logoColor=white)
+*AI, ML & Agentic Systems*  
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0052CC?style=flat-square&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LLMs & NLP](https://img.shields.io/badge/LLMs_%26_NLP-8E75B2?style=flat-square&logo=meta&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0052CC?style=flat-square&logo=probot&logoColor=white)
 
-*Computer Vision & Edge AI*  
+*Frameworks, Data & Computer Vision*  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NVIDIA Jetson Nano](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+*Databases & Vector Search*  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase pgvector](https://img.shields.io/badge/Supabase_(pgvector)-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+*Tools & Infrastructure*  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
