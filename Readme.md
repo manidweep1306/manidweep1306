@@ -10,16 +10,6 @@ import manidweep
 print(manidweep.get_focus())
 # Output: ['Full-Stack AI Solutions', 'RAG Pipelines', 'Agentic Workflows', 'Computer Vision & Edge']
 
-
----
-
-```python
-import manidweep
-
-print(manidweep.get_focus())
-# Output: ['Full-Stack AI Solutions', 'RAG Pipelines', 'Agentic Workflows', 'Computer Vision & Edge']
-
-
 ---
 
 ### 🔬 Core Competencies
