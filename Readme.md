@@ -68,14 +68,9 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manidweep1306&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manidweep1306&theme=github-dark&hide_border=true)](https://github.com/manidweep1306)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manidweep1306&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-</p>
-
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=manidweep1306&theme=dark&hide_border=true)
 ---
 
 ## 🚀 Featured Projects
