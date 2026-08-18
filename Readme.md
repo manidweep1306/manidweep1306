@@ -71,17 +71,10 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manidweep1306&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidweep1306&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manidweep1306&theme=flat&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://metrics.lecoq.io/manidweep1306?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" alt="Metrics" />
-</p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manidweep1306&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+</p>
 
 ---
 
