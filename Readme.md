@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yarabarla Manidweep 👋</h1>
+<h1 align="center">Hi, I'm Manidweep 👋</h1>
 <h3 align="center">AI Full-Stack Developer (AI FSD)</h3>
 
 <p align="center">
