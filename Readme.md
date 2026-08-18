@@ -17,9 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;RAG+Pipelines+%26+LLM+Agents;Computer+Vision+%26+Edge+AI;Full-Stack+Web+Architecture" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
-</p>
+---
 
 I build full-stack products and integrate AI capabilities — RAG pipelines, LLM agents, and computer vision — directly into web architectures.
 
@@ -31,9 +29,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 - 👁️ **Edge AI & Computer Vision:** PyTorch, OpenCV, ResNet-18, NVIDIA Jetson Nano
 - 🧠 **Strong focus on** system performance, hybrid vector search, and latency optimization
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
-</p>
+---
 
 ## 🛠️ Tech Stack
 
@@ -68,9 +64,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
-</p>
+---
 
 ## 📊 GitHub Analytics
 
@@ -82,9 +76,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&layout=compact&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=A78BFA&bg_color=0D1117" alt="Top Languages" width="60%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
-</p>
+---
 
 ## 🚀 Featured Projects
 
@@ -112,9 +104,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 `Python` `NLP` `Data Parsing`
 > Automated screening pipeline designed to parse, evaluate, and match candidate resumes against targeted job requisitions.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
-</p>
+---
 
 ## 📈 Experience & Certifications
 
