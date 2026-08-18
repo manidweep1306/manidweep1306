@@ -1,0 +1,14 @@
+name: Readme Chess
+on:
+  issues:
+    types:
+      - opened
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: marcizhu/readme-chess@v1
+        with:
+          ACTION_DIR: .github/actions/readme-chess
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
