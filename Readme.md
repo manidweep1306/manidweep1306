@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manidweep 👋</h1>
+<h1 align="center">Hi, I'm Yarabarla Manidweep 👋</h1>
 <h3 align="center">AI Full-Stack Developer (AI FSD)</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
 </p>
 
 I build full-stack products and integrate AI capabilities — RAG pipelines, LLM agents, and computer vision — directly into web architectures.
@@ -32,7 +32,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 - 🧠 **Strong focus on** system performance, hybrid vector search, and latency optimization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
 </p>
 
 ## 🛠️ Tech Stack
@@ -69,7 +69,21 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manidweep1306&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=A78BFA&icon_color=3ECF8E&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidweep1306&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=A78BFA&icon_color=3ECF8E&background=0D1117" alt="GitHub Streak" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&layout=compact&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=A78BFA&bg_color=0D1117" alt="Top Languages" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
 </p>
 
 ## 🚀 Featured Projects
@@ -99,7 +113,7 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 > Automated screening pipeline designed to parse, evaluate, and match candidate resumes against targeted job requisitions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="80%">
 </p>
 
 ## 📈 Experience & Certifications
