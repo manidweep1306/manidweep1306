@@ -69,12 +69,12 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manidweep1306&theme=flat&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=manidweep1306&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidweep1306&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=manidweep1306&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidweep1306&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
