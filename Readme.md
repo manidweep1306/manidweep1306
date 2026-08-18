@@ -102,13 +102,13 @@ I build full-stack products and integrate AI capabilities — RAG pipelines, LLM
 
 ---
 
-## 🧪 Side Projects — Edge AI & Computer Vision
+## 🔬 Edge AI & Specialized Systems
 
-### 🚗 Driver Fatigue Detection System
+### 🚗 SentinelDrive | Edge Fatigue Detection System
 `PyTorch` `OpenCV` `ResNet-18` `NVIDIA Jetson Nano`
 > Real-time driver fatigue detection engineered for edge deployment. Built a custom dataset of 500+ facial samples and fine-tuned a ResNet-18 classifier optimized for low-latency inference on Jetson Nano devices.
 
-### 📄 AI Resume Matcher
+### 📄 TalentFit | Intelligent Resume Matching Engine
 `Python` `NLP` `Data Parsing`
 > Automated screening pipeline designed to parse, evaluate, and match candidate resumes against targeted job requisitions.
 
